@@ -69,7 +69,12 @@
 
 * [Fosdem](https://fosdem.org/2022/) - Open Source event online on 5 & 6 February 2022.
 * [Open Hardware Summit](https://2022.oshwa.org/) - Annual conference on open hardware on 22 April 2022.
+* [Open Sauce](https://opensauce.com/) - Annual convention focused on science and technology on on 17-19 July
 * [Maker Faire](https://makerfaire.com/) - A celebration of the Maker Movement, locally organized.
+* [Hackaday Supercon](https://hackaday.io/superconference/) - Annual conference on hardware hacking and deep-dive technical workshops
+* [KiCon](https://kicon.kicad.org/) - Annual conferences about KiCad open source EDA organized in different regions
+* [RISC-V Summits](https://riscv.org/community/risc-v-summits/) - Annual summits organized by RISC-V International in different regions
+* [World RISC-V Days](https://riscv.org/world-risc-v-days/) - Synchronized global events voluntarily organized by RISC-V communities worldwide
 
 ## Platforms
 
