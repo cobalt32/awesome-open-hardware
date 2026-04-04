@@ -100,7 +100,7 @@
 * [Open-source Lab](https://books.google.nl/books?id=0bOKAAAAQBAJ&lpg=PP1&dq=open%20source%20hardware&pg=PP1##v=onepage&q=open%20source%20hardware&f=false) - Book by Josua m. Pearce, how to build your own hardware and reduce costs.
 * [Free to Make](https://books.google.nl/books?id=jz1bCwAAQBAJ&lpg=PA93&dq=open%20source%20hardware&pg=PP1##v=onepage&q=open%20source%20hardware&f=false) -  Book by Dale Dougherty, how the maker movement is changing our schools, our jobs, and our minds.
 * [The bridge](https://www.nae.edu/174695/Fall-Bridge-on-Open-Source-Hardware) - Issue of the national academy of engineering on open source hardware.
-
+* [The Hardware Hacker](https://books.google.com/books?id=qAYvDwAAQBAJ&printsec=frontcover&dq=Hardware+hacker+bunnie+huang&hl=nl&newbks=1&newbks_redir=1&sa=X&ved=2ahUKEwj_zsyX5dOTAxVDh_0HHUb5A1UQ6AF6BAgIEAM) - Book by Andrew "bunnie" Huang, how to design and manufacture open hardware products.
 
 ## Training programs
 
