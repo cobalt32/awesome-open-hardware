@@ -72,6 +72,7 @@
 * [Maker Faire](https://makerfaire.com/) - A celebration of the Maker Movement, locally organized.
 * [Latch-Up](https://fossi-foundation.org/latch-up) - A three-day conference dedicated to free and open source silicon. Hosted in North America every spring.
 * [ORConf](https://fossi-foundation.org/orconf) - Another three-day conference dedicated to free and open source silicon. Hosted in Europe every autumn.
+* [Hackaday Supercon](https://hackaday.io/superconference/) - A hardware hacking conference hosted by Hackaday.
 
 ## Platforms
 
