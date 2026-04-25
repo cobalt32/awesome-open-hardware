@@ -42,6 +42,7 @@
 * [Mekanika](https://www.mekanika.io/) - Tools and machines for makers.
 * [PiSpot Watch](https://github.com/GeiserX/PiSpot-Watch) - Wrist-wearable Raspberry Pi Zero smartwatch with e-ink display that generates Wi-Fi voucher codes on demand.
 * [PiSpot Show](https://github.com/GeiserX/PiSpot-Show) - Raspberry Pi appliance that drives HDMI displays as self-updating Wi-Fi voucher kiosks with live weather.
+* [pic0rick](https://github.com/kelu124/pic0rick/) - an open-source Raspberry Pi pico platform for pulse-echo ultrasound imaging hardware
 
 ## Talks
 
