@@ -42,6 +42,12 @@
 * [Mekanika](https://www.mekanika.io/) - Tools and machines for makers.
 * [PiSpot Watch](https://github.com/GeiserX/PiSpot-Watch) - Wrist-wearable Raspberry Pi Zero smartwatch with e-ink display that generates Wi-Fi voucher codes on demand.
 * [PiSpot Show](https://github.com/GeiserX/PiSpot-Show) - Raspberry Pi appliance that drives HDMI displays as self-updating Wi-Fi voucher kiosks with live weather.
+* [Hacker Fab](https://docs.hackerfab.org/home) - Nanofabrication tools for making integrated circuits.
+* [freeDSP](https://freedsp.github.io) - A family of audio digital signal processors.
+* [Input Labs](https://inputlabs.io) - Video game controllers featuring gyroscopic sensors.
+* [SlimeVR](https://slimevr.dev) - Full-body tracking sensors for virtual reality and motion capture.
+* [VORON Design](https://www.vorondesign.com/) - No-compromise 3D printer designs.
+* [Millennium Machines](https://www.millennium-machines.com/) - A project dedicated to designing desktop CNC mills.
 
 ## Talks
 
