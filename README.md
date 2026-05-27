@@ -68,10 +68,14 @@
 
 * [FOSDEM](https://fosdem.org) - Annual open source event in Brussels.
 * [Open Hardware Summit](https://oshwa.org/events/) - Annual conference on open hardware.
+* [Open Sauce](https://opensauce.com/) - Annual convention focused on science and technology on on 17-19 July
 * [Maker Faire](https://makerfaire.com/) - A celebration of the Maker Movement, locally organized.
+* [Hackaday Supercon](https://hackaday.io/superconference/) - Annual conference on hardware hacking and deep-dive technical workshops
+* [KiCon](https://kicon.kicad.org/) - Annual conferences about KiCad open source EDA organized in different regions
+* [RISC-V Summits](https://riscv.org/community/risc-v-summits/) - Annual summits organized by RISC-V International in different regions
+* [World RISC-V Days](https://riscv.org/world-risc-v-days/) - Synchronized global events voluntarily organized by RISC-V communities worldwide
 * [Latch-Up](https://fossi-foundation.org/latch-up) - A three-day conference dedicated to free and open source silicon. Hosted in North America every spring.
 * [ORConf](https://fossi-foundation.org/orconf) - Another three-day conference dedicated to free and open source silicon. Hosted in Europe every autumn.
-* [Hackaday Supercon](https://hackaday.io/superconference/) - A hardware hacking conference hosted by Hackaday.
 
 ## Platforms
 
@@ -102,6 +106,7 @@
 * [Open-source Lab](https://books.google.com/books?id=0bOKAAAAQBAJ&pg=PP1) - Book by Josua M. Pearce, how to build your own hardware and reduce costs.
 * [Free to Make](https://books.google.com/books?id=jz1bCwAAQBAJ&pg=PP1) - Book by Dale Dougherty, how the maker movement is changing our schools, our jobs, and our minds.
 * [The bridge](https://www.nae.edu/174695/Fall-Bridge-on-Open-Source-Hardware) - Issue of the national academy of engineering on open source hardware.
+* [The Hardware Hacker](https://books.google.com/books?id=qAYvDwAAQBAJ&printsec=frontcover&dq=Hardware+hacker+bunnie+huang&hl=nl&newbks=1&newbks_redir=1&sa=X&ved=2ahUKEwj_zsyX5dOTAxVDh_0HHUb5A1UQ6AF6BAgIEAM) - Book by Andrew "bunnie" Huang, how to design and manufacture open hardware products.
 
 ## Training programs
 
