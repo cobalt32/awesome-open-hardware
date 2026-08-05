@@ -36,29 +36,29 @@
 
 * [freeDSP](https://freedsp.github.io) - A family of audio digital signal processors.
 * [Input Labs](https://inputlabs.io) - Video game controllers featuring gyroscopic sensors.
-* [Mutable Instruments](https://mutable-instruments.net/) - Open-source eurorack classics.
-* [PiKVM](https://pikvm.org/) - Open and inexpensive DIY IP-KVM based on Raspberry Pi.
+* [Mutable Instruments](https://mutable-instruments.net/) - Eurorack classics.
+* [PiKVM](https://pikvm.org/) - Inexpensive DIY IP-KVM based on Raspberry Pi.
 * [PiSpot Show](https://github.com/GeiserX/PiSpot-Show) - Raspberry Pi appliance that drives HDMI displays as self-updating Wi-Fi voucher kiosks with live weather.
 * [PiSpot Watch](https://github.com/GeiserX/PiSpot-Watch) - Wrist-wearable Raspberry Pi Zero smartwatch with e-ink display that generates Wi-Fi voucher codes on demand.
 * [SlimeVR](https://slimevr.dev) - Full-body tracking sensors for virtual reality and motion capture.
-* [Winterbloom](https://winterbloom.com) - Open-source eurorack modules; Thea has some stellar design write-ups on her blog.
+* [Winterbloom](https://winterbloom.com) - Eurorack modules; Thea has some stellar design write-ups on her blog.
 
 ### Development Boards
 
-* [Arduino](https://www.arduino.cc/) - Arduino is an open-source electronics platform.
-* [OpenMV](https://github.com/openmv/openmv) - Open-source, low-cost machine vision platform.
-* [pic0rick](https://github.com/kelu124/pic0rick/) - An open-source Raspberry Pi Pico platform for pulse-echo ultrasound imaging hardware.
+* [Arduino](https://www.arduino.cc/) - Arduino is an electronics platform.
+* [OpenMV](https://github.com/openmv/openmv) - Low-cost machine vision platform.
+* [pic0rick](https://github.com/kelu124/pic0rick/) - A Raspberry Pi Pico platform for pulse-echo ultrasound imaging hardware.
 
 ### Scientific Instruments
 
-* [Biohack Academy](https://assets.waag.org/biohackacademy) - Open-source biotechnological hardware such as an incubator, thermocycler, centrifuge, microscope, etc.
-* [GaudiLab](http://www.gaudi.ch/GaudiLabs/?page_id=19) - Open-source hardware projects for biology laboratories.
-* [mesoSPIM](http://mesospim.org/) - Open-source light-sheet microscopes for imaging in cleared tissue.
+* [Biohack Academy](https://assets.waag.org/biohackacademy) - Biotechnological hardware such as an incubator, thermocycler, centrifuge, microscope, etc.
+* [GaudiLab](http://www.gaudi.ch/GaudiLabs/?page_id=19) - Hardware projects for biology laboratories.
+* [mesoSPIM](http://mesospim.org/) - Light-sheet microscopes for imaging in cleared tissue.
 * [Open Gamma Detector](https://github.com/Open-Gamma-Project/Open-Gamma-Detector) - Hackable, low-cost gamma-ray spectrometer.
 * [OpenBCI](https://openbci.com/) - Brain-computer interface.
-* [OpenFlexure](https://openflexure.org/) - Open-source, 3D-printed microscope, including a precise mechanical stage.
+* [OpenFlexure](https://openflexure.org/) - 3D-printed microscope with a precise mechanical stage.
 * [OpenSPIM](https://openspim.org/) - Open-access platform for three-dimensional (3D) microscopy.
-* [openUC2](https://github.com/openUC2/UC2-GIT) - Open-source modular microscopy toolbox.
+* [openUC2](https://github.com/openUC2/UC2-GIT) - Modular microscopy toolbox.
 * [SafeCast](https://safecast.org/) - Environmental measurements for the public domain.
 
 ## Talks
