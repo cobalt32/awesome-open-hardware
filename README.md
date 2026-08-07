@@ -68,7 +68,6 @@
 
 * [Elmer](https://github.com/ElmerCSC/elmerfem) - A software suite for running finite element method simulations.
 * [FreeCAD](https://www.freecad.org/) - A mechanical computer-aided design program for designing 3D parametric parts.
-* [FreeCAD History Workbench](https://github.com/eblanshey/HistoryWorkbench) - A FreeCAD workbench for viewing version history diffs in 3D.
 * [KiCad](https://www.kicad.org/) - An electronic design automation program for designing printed circuit boards.
 * [KiCad StepUp](https://github.com/easyw/kicadStepUpMod) - A mechanical collaboration tool for moving projects between KiCad and FreeCAD.
 
