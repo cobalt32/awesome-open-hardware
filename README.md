@@ -75,7 +75,8 @@
 
 * [KLayout](https://www.klayout.de/) - A tool for viewing and editing integrated circuit layouts.
 * [LibreLane](https://fossi-foundation.org/librelane/) - An infrastructure library for creating integrated circuit design flows.
-* [Magic](https://opencircuitdesign.com/magic/) - A VLSI layout tool, mainly used for analog layout.
+* [Magic](https://opencircuitdesign.com/magic/) - A VLSI layout tool, primarily used for analog layout.
+* [OpenRAM](https://openram.org/) - A framework for creating SRAM netlists, layouts, and more.
 * [OpenROAD](https://theopenroadproject.org/) - An application that implements an RTL-to-GDSII flow.
 * [SkyWater PDK](https://github.com/google/skywater-pdk) - A process design kit for SkyWater's 130 nm process node.
 * [Surfer](https://surfer-project.org/) - An extensible and snappy waveform viewer.
