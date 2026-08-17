@@ -70,6 +70,7 @@
 * [FreeCAD](https://www.freecad.org/) - A mechanical computer-aided design program for designing 3D parametric parts.
 * [KiCad](https://www.kicad.org/) - An electronic design automation program for designing printed circuit boards.
 * [KiCad StepUp](https://github.com/easyw/kicadStepUpMod) - A mechanical collaboration tool for moving projects between KiCad and FreeCAD.
+* [Ngspice](https://ngspice.sourceforge.io/download.html) - A mixed-signal electronic circuit simulator.
 
 ### Integrated Circuit
 
